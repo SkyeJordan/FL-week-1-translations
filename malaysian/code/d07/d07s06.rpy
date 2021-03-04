@@ -508,7 +508,7 @@ translate malaysian d07s06_later_fa6dd341:
 translate malaysian d07s06_later_d4b7f2e2:
 
     # flr "Congratulations! You remain a player in our game."
-    flr "Tahniah! Anda maihs lagi menjadi pemain dalam permainan kami."
+    flr "Tahniah! Anda masih lagi menjadi pemain dalam permainan kami."
 
 # game/code/d07/d07s06.rpy:288
 translate malaysian d07s06_later_ff8c7592:
